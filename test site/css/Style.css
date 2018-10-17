@@ -1,0 +1,31 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.style-nav ul {
+	list-style-type:none;
+	text-align:center;
+}
+
+.style-nav ul li a {
+	color: #2F322A;
+	text-align: center;
+	text-transform: uppercase;
+	padding: 8px;
+	display: inline-block;	
+	float: right;
+	}
+
+img {
+	width: 100%;
+	max-width: 100%;
+	height: auto;
+	vertical-align: middle;
+}
+.Center {
+	text-transform:uppercase;
+	text-align: center;
+	font-size: 5rem;
+}
+.col-lg-one-fourth{
+	width: 25%;
+}
